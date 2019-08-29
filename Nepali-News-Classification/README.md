@@ -21,6 +21,8 @@ world:             187<br>
 <br>
 sample train data and sample test data is provided in the data folder. You can add more data by scraping some news websites.<br>
 <br>
-To train your classifier, run train_classifier.py
+# To train your classifier
+run train_classifier.py
 <br>
-To predict the classes, run news_classifier.py which uses the trained models saved from train_classifier.py. 
+# To predict the classes
+run news_classifier.py which uses the trained models saved from train_classifier.py. 
